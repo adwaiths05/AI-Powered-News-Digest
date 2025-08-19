@@ -46,7 +46,7 @@ AI News Digest is a web application designed for visual learners, presenting a n
 
 Clone the repository: 
 ```bash
-git clone <repo-url>
+git clone https://github.com/adwaiths05/AI-Powered-News-Digest.git
 ```
 
 
